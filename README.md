@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sankesh97
+- ☁️ AWS Certified Cloud Practitioner
 - 👀 I’m interested in Full-Stack Development with currently focussed on Front-end part.
-- 🌱 I’m currently learning ReactJS,GraphQL,AWS and few others.
+- 🌱 I’m currently learning ReactJS,GraphQL,AWS.
 - 💞️ I’m looking to collaborate on anything that might help me get better in the above technologies.
 - 📫 How to reach me ..
 
